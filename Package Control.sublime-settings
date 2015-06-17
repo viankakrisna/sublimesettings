@@ -1,0 +1,32 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Animate.css Snippets",
+		"Backbone.js",
+		"Bootstrap 3 Snippets",
+		"cdnjs",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"Icon Fonts",
+		"JavaScript Completions",
+		"JavaScript Patterns",
+		"jQuery",
+		"jQuery Snippets pack",
+		"jQueryDocs",
+		"JS Snippets",
+		"Libraries from CDN",
+		"LiveStyle",
+		"Package Control",
+		"PHP Completions Kit",
+		"Phpcs",
+		"SideBarEnhancements",
+		"Theme - Numix",
+		"WebFont",
+		"WordPress",
+		"WordPress Developer Resources"
+	]
+}
